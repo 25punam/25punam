@@ -5,7 +5,7 @@ I am a Backend Developer passionate about building robust, scalable web applicat
 <br>🔭 Current Focus: Engineering high-performance APIs and real-time data systems.
 <br>🌱 Learning: Deepening my expertise in Docker, Kubernetes, and Cloud Infrastructure.
 <br>⚡ Fun Fact: When I'm not debugging or optimizing queries, I enjoy exploring world cinema and storytelling, which often inspires my creative approach to problem-solving.
-<br>📫 How to reach me: [https://www.linkedin.com/in/25punam/]
+
 
 
 # 💻 Tech Stack:
